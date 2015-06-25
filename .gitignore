@@ -1,2 +1,4 @@
 .vagrant
-www/*.*
+www/*
+!nginx/redmart.com
+!www/.gitkeep
